@@ -1,0 +1,24 @@
+
+ 
+ 
+ 
+ 
+ In Xcode:
+
+ Run your app on a physical device.
+
+ Go to Window > Devices and Simulators.
+
+ Select your device → find your app → click the gear ⚙️ → Download Container.
+
+ Inside the .xcappdata file, navigate to:
+
+ swift
+ Copy
+ Edit
+ AppData/Documents/
+ That’s where your telemetry is stored.
+ 
+
+
+

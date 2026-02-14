@@ -1,0 +1,571 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		BFAC25142F3EB28F00645A0A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFAC24FB2F3EB28E00645A0A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = BFAC25022F3EB28E00645A0A;
+			remoteInfo = Apexiel_RX_old;
+		};
+		BFAC251E2F3EB28F00645A0A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFAC24FB2F3EB28E00645A0A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = BFAC25022F3EB28E00645A0A;
+			remoteInfo = Apexiel_RX_old;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		BFAC25032F3EB28E00645A0A /* Apexiel_RX_old.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Apexiel_RX_old.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BFAC25132F3EB28F00645A0A /* Apexiel_RX_oldTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Apexiel_RX_oldTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		BFAC251D2F3EB28F00645A0A /* Apexiel_RX_oldUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Apexiel_RX_oldUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		BFAC25052F3EB28E00645A0A /* Apexiel_RX_old */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Apexiel_RX_old;
+			sourceTree = "<group>";
+		};
+		BFAC25162F3EB28F00645A0A /* Apexiel_RX_oldTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Apexiel_RX_oldTests;
+			sourceTree = "<group>";
+		};
+		BFAC25202F3EB28F00645A0A /* Apexiel_RX_oldUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Apexiel_RX_oldUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		BFAC25002F3EB28E00645A0A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BFAC25102F3EB28F00645A0A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BFAC251A2F3EB28F00645A0A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		BFAC24FA2F3EB28E00645A0A = {
+			isa = PBXGroup;
+			children = (
+				BFAC25052F3EB28E00645A0A /* Apexiel_RX_old */,
+				BFAC25162F3EB28F00645A0A /* Apexiel_RX_oldTests */,
+				BFAC25202F3EB28F00645A0A /* Apexiel_RX_oldUITests */,
+				BFAC25042F3EB28E00645A0A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		BFAC25042F3EB28E00645A0A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				BFAC25032F3EB28E00645A0A /* Apexiel_RX_old.app */,
+				BFAC25132F3EB28F00645A0A /* Apexiel_RX_oldTests.xctest */,
+				BFAC251D2F3EB28F00645A0A /* Apexiel_RX_oldUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		BFAC25022F3EB28E00645A0A /* Apexiel_RX_old */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BFAC25272F3EB28F00645A0A /* Build configuration list for PBXNativeTarget "Apexiel_RX_old" */;
+			buildPhases = (
+				BFAC24FF2F3EB28E00645A0A /* Sources */,
+				BFAC25002F3EB28E00645A0A /* Frameworks */,
+				BFAC25012F3EB28E00645A0A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				BFAC25052F3EB28E00645A0A /* Apexiel_RX_old */,
+			);
+			name = Apexiel_RX_old;
+			packageProductDependencies = (
+			);
+			productName = Apexiel_RX_old;
+			productReference = BFAC25032F3EB28E00645A0A /* Apexiel_RX_old.app */;
+			productType = "com.apple.product-type.application";
+		};
+		BFAC25122F3EB28F00645A0A /* Apexiel_RX_oldTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BFAC252A2F3EB28F00645A0A /* Build configuration list for PBXNativeTarget "Apexiel_RX_oldTests" */;
+			buildPhases = (
+				BFAC250F2F3EB28F00645A0A /* Sources */,
+				BFAC25102F3EB28F00645A0A /* Frameworks */,
+				BFAC25112F3EB28F00645A0A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				BFAC25152F3EB28F00645A0A /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				BFAC25162F3EB28F00645A0A /* Apexiel_RX_oldTests */,
+			);
+			name = Apexiel_RX_oldTests;
+			packageProductDependencies = (
+			);
+			productName = Apexiel_RX_oldTests;
+			productReference = BFAC25132F3EB28F00645A0A /* Apexiel_RX_oldTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		BFAC251C2F3EB28F00645A0A /* Apexiel_RX_oldUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BFAC252D2F3EB28F00645A0A /* Build configuration list for PBXNativeTarget "Apexiel_RX_oldUITests" */;
+			buildPhases = (
+				BFAC25192F3EB28F00645A0A /* Sources */,
+				BFAC251A2F3EB28F00645A0A /* Frameworks */,
+				BFAC251B2F3EB28F00645A0A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				BFAC251F2F3EB28F00645A0A /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				BFAC25202F3EB28F00645A0A /* Apexiel_RX_oldUITests */,
+			);
+			name = Apexiel_RX_oldUITests;
+			packageProductDependencies = (
+			);
+			productName = Apexiel_RX_oldUITests;
+			productReference = BFAC251D2F3EB28F00645A0A /* Apexiel_RX_oldUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		BFAC24FB2F3EB28E00645A0A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					BFAC25022F3EB28E00645A0A = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					BFAC25122F3EB28F00645A0A = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = BFAC25022F3EB28E00645A0A;
+					};
+					BFAC251C2F3EB28F00645A0A = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = BFAC25022F3EB28E00645A0A;
+					};
+				};
+			};
+			buildConfigurationList = BFAC24FE2F3EB28E00645A0A /* Build configuration list for PBXProject "Apexiel_RX_old" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = BFAC24FA2F3EB28E00645A0A;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = BFAC25042F3EB28E00645A0A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				BFAC25022F3EB28E00645A0A /* Apexiel_RX_old */,
+				BFAC25122F3EB28F00645A0A /* Apexiel_RX_oldTests */,
+				BFAC251C2F3EB28F00645A0A /* Apexiel_RX_oldUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		BFAC25012F3EB28E00645A0A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BFAC25112F3EB28F00645A0A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BFAC251B2F3EB28F00645A0A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		BFAC24FF2F3EB28E00645A0A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BFAC250F2F3EB28F00645A0A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BFAC25192F3EB28F00645A0A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		BFAC25152F3EB28F00645A0A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = BFAC25022F3EB28E00645A0A /* Apexiel_RX_old */;
+			targetProxy = BFAC25142F3EB28F00645A0A /* PBXContainerItemProxy */;
+		};
+		BFAC251F2F3EB28F00645A0A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = BFAC25022F3EB28E00645A0A /* Apexiel_RX_old */;
+			targetProxy = BFAC251E2F3EB28F00645A0A /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		BFAC25252F3EB28F00645A0A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		BFAC25262F3EB28F00645A0A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		BFAC25282F3EB28F00645A0A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Apexiel_RX_old/Preview Content\"";
+				DEVELOPMENT_TEAM = 9MG964W7TJ;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "this app require location data to track your laps";
+				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "this app require location data to track your laps";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "this app require location data to track your laps";
+				INFOPLIST_KEY_NSMotionUsageDescription = "this app requires motion data to track your laps";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "the.Apexiel-RX-old";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		BFAC25292F3EB28F00645A0A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Apexiel_RX_old/Preview Content\"";
+				DEVELOPMENT_TEAM = 9MG964W7TJ;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "this app require location data to track your laps";
+				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "this app require location data to track your laps";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "this app require location data to track your laps";
+				INFOPLIST_KEY_NSMotionUsageDescription = "this app requires motion data to track your laps";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "the.Apexiel-RX-old";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		BFAC252B2F3EB28F00645A0A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 9MG964W7TJ;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "the.Apexiel-RX-oldTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Apexiel_RX_old.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Apexiel_RX_old";
+			};
+			name = Debug;
+		};
+		BFAC252C2F3EB28F00645A0A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 9MG964W7TJ;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "the.Apexiel-RX-oldTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Apexiel_RX_old.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Apexiel_RX_old";
+			};
+			name = Release;
+		};
+		BFAC252E2F3EB28F00645A0A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 9MG964W7TJ;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "the.Apexiel-RX-oldUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Apexiel_RX_old;
+			};
+			name = Debug;
+		};
+		BFAC252F2F3EB28F00645A0A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 9MG964W7TJ;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "the.Apexiel-RX-oldUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Apexiel_RX_old;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		BFAC24FE2F3EB28E00645A0A /* Build configuration list for PBXProject "Apexiel_RX_old" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BFAC25252F3EB28F00645A0A /* Debug */,
+				BFAC25262F3EB28F00645A0A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BFAC25272F3EB28F00645A0A /* Build configuration list for PBXNativeTarget "Apexiel_RX_old" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BFAC25282F3EB28F00645A0A /* Debug */,
+				BFAC25292F3EB28F00645A0A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BFAC252A2F3EB28F00645A0A /* Build configuration list for PBXNativeTarget "Apexiel_RX_oldTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BFAC252B2F3EB28F00645A0A /* Debug */,
+				BFAC252C2F3EB28F00645A0A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BFAC252D2F3EB28F00645A0A /* Build configuration list for PBXNativeTarget "Apexiel_RX_oldUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BFAC252E2F3EB28F00645A0A /* Debug */,
+				BFAC252F2F3EB28F00645A0A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BFAC24FB2F3EB28E00645A0A /* Project object */;
+}
