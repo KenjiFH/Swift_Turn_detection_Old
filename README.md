@@ -55,16 +55,15 @@ This reduces false positives while capturing meaningful directional changes.
 ## 📊 Dashboard / UI
 
 
-![Dashboard UI](./New folder/dash-2.PNG)
-
+![Dashboard UI](./New%20folder/dash-2.PNG)
 
 ## 🔄 Captured Turns Visualization
 
+![Captured Turns](./New%20folder/turn-1.PNG)
 
+![Captured Turns](./New%20folder/turn-2.PNG)
 
-![Captured Turns](./New folder/turn-1.PNG)
-![Captured Turns](./New folder/turn-2.PNG)
-![Captured Turns](./New folder/turn-3.PNG)
+![Captured Turns](./New%20folder/turn-3.PNG)
 
 ## 🎯 Project Goals
 
