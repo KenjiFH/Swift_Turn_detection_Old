@@ -55,20 +55,16 @@ This reduces false positives while capturing meaningful directional changes.
 ## 📊 Dashboard / UI
 
 
-![Dashboard UI](Swift_Turn_detection_Old
-/New folder/dash-2.png)
+![Dashboard UI](./New folder/dash-2.PNG)
 
 
 ## 🔄 Captured Turns Visualization
 
 
 
-![Captured Turns](Swift_Turn_detection_Old
-/New folder/turn-1.png)
-![Captured Turns](Swift_Turn_detection_Old
-/New folder/turn-2.png)
-![Captured Turns](Swift_Turn_detection_Old
-/New folder/turn-3.png)
+![Captured Turns](./New folder/turn-1.PNG)
+![Captured Turns](./New folder/turn-2.PNG)
+![Captured Turns](./New folder/turn-3.PNG)
 
 ## 🎯 Project Goals
 
