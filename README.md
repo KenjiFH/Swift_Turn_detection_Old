@@ -54,8 +54,8 @@ This reduces false positives while capturing meaningful directional changes.
 
 ## 📊 Dashboard / UI
 
-
 ![Dashboard UI](./New%20folder/dash-2.PNG)
+
 
 ## 🔄 Captured Turns Visualization
 
