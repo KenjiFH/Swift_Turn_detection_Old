@@ -59,6 +59,8 @@ This reduces false positives while capturing meaningful directional changes.
 
 ## 🔄 Captured Turns Visualization
 
+this section shows actual data captured from dirtfish over the summer, it highlights where drivers turned, and what telemetry was captured during these turns
+
 ![Captured Turns](./images/turn-1.PNG)
 
 ![Captured Turns](./images/turn-2.PNG)
